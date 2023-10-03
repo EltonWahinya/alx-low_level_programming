@@ -1,4 +1,5 @@
-nclude "main.h"
+#!/bin/bash
+#include "main.h"
 /**
  *  * _strpbrk - Entry point
  *   * @s: input
